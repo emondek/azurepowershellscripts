@@ -4,7 +4,7 @@
 $subscriptionName = 'Microsoft Azure Subscription' 
 $storageAccount = 'pedrorodmsihdpstor'
 $numStorageAccounts = 4
-$serviceName = 'pedrorodmsihdp'
+$serviceName = 'msihdp'
 $vnetName = 'msihdpvnet'
 $subnetName = 'Subnet-1'
 $location = 'East US'

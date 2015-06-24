@@ -1,8 +1,8 @@
 ﻿#Add-AzureAccount
 
 # Initialize variables
-$subscriptionName = 'Microsoft Azure Internal Consumption' 
-$serviceName = 'pedrorodmsihdp'
+$subscriptionName = 'Microsoft Azure Subscription' 
+$serviceName = 'msihdp'
 
 # Set the current subscription and storage account
 Select-AzureSubscription -SubscriptionName $subscriptionName
